@@ -56,9 +56,9 @@ else:
         return response
 
     # Initialize Streamlit app
-    st.set_page_config(page_title="Image and Text Conversational Chatbot")
+    st.set_page_config(page_title="NeuroNova-Image and Text Conversational Chatbot")
 
-    st.header("Image and Text Conversational Chatbot")
+    st.header("NeuroNova-Image and Text Conversational Chatbot")
 
     # Initialize session state for chat history if it doesn't exist
     if 'chat_history' not in st.session_state:
