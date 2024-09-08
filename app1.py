@@ -115,9 +115,9 @@ else:
 
     # Additional sidebar functionalities
     st.sidebar.markdown("© 2024 Team NeuroNova")
-    st.sidebar.markdown("- [Rithvik K](https://www.linkedin.com/in/rithvik-k-1ab3a1266)")
-    st.sidebar.markdown("- [Uttej Kumar O](https://www.linkedin.com/in/uttej-kumar-o-9aa9a4253/)")
-    st.sidebar.markdown("- [Sudheera K](https://www.linkedin.com/in/sudheera-kotha-97bb96253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)")
-    st.sidebar.markdown("- [Santharam S](https://www.linkedin.com/in/santharam-s-72834a275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
-    st.sidebar.markdown("- [Kasyap G](https://www.linkedin.com/in/kasyap-g-1557aa24a/)")
-    st.sidebar.markdown("- Yogender")
+    # st.sidebar.markdown("- [Rithvik K](https://www.linkedin.com/in/rithvik-k-1ab3a1266)")
+    # st.sidebar.markdown("- [Uttej Kumar O](https://www.linkedin.com/in/uttej-kumar-o-9aa9a4253/)")
+    # st.sidebar.markdown("- [Sudheera K](https://www.linkedin.com/in/sudheera-kotha-97bb96253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)")
+    # st.sidebar.markdown("- [Santharam S](https://www.linkedin.com/in/santharam-s-72834a275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
+    # st.sidebar.markdown("- [Kasyap G](https://www.linkedin.com/in/kasyap-g-1557aa24a/)")
+    # st.sidebar.markdown("- Yogender")
